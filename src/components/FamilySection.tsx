@@ -156,7 +156,7 @@ export default function FamilySection() {
                 
                 <div className="mb-6">
                   <p className="text-gray-700 leading-relaxed italic">
-                    "{story.story}"
+                    &ldquo;{story.story}&rdquo;
                   </p>
                 </div>
                 
